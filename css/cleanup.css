@@ -2,7 +2,7 @@
 #wall .tag-1 {
   display:none;
 }
-#wall #tag-3.slick.wicked {
+#wall #tag-3 .slick.wicked {
   display: none;
 }
 #wall #tag-2 {
@@ -11,7 +11,7 @@
 #wall #tag-4 {
   display: none;
 }
-#wall .parent #tag-5.slick.wicked {
+#wall .parent #tag-5 .slick.wicked {
   display:none;
 }
 #wall .parent :last-child #tag-6 {
